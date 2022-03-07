@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aamangupta
+- 👋 Hi, I’m Aman Gupta
 - 👀 I’m interested in solving problems.
 - 🌱 I’m currently learning web development, data structures and algorithms.
 - 💞️ I’m looking to collaborate on building cool projects and have an impact.
